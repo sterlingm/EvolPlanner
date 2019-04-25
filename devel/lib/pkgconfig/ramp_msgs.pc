@@ -1,0 +1,8 @@
+prefix=/home/mason/Documents/evol_planner/devel
+
+Name: ramp_msgs
+Description: Description of ramp_msgs
+Version: 0.0.0
+Cflags: -I/home/mason/Documents/evol_planner/devel/include
+Libs: -L/home/mason/Documents/evol_planner/devel/lib 
+Requires: message_runtime nav_msgs std_msgs trajectory_msgs

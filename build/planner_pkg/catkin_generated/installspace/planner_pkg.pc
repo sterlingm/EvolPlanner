@@ -1,0 +1,8 @@
+prefix=/home/mason/Documents/evol_planner/install
+
+Name: planner_pkg
+Description: Description of planner_pkg
+Version: 0.0.0
+Cflags: -I/home/mason/Documents/evol_planner/install/include
+Libs: -L/home/mason/Documents/evol_planner/install/lib 
+Requires: 

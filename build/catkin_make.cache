@@ -1,0 +1,2 @@
+packages/planner_pkg:packages/ramp_msgs
+-DCATKIN_DEVEL_PREFIX=/home/mason/Documents/evol_planner/devel -DCMAKE_INSTALL_PREFIX=/home/mason/Documents/evol_planner/install -G Unix Makefiles
